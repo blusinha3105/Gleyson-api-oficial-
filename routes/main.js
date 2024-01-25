@@ -5,9 +5,11 @@ require("../routes/api")
 var express = require('express');
 var router = express.Router();
 var fs = require('fs')
+/*
 var chatGPTAPI = require('@danitech/chatgpt-api');
 var { models } = chatGPTAPI;
 var { chatGPT3, chatGPT35, chatGPT4 } = models;
+*/
 var db = require(__path + '/database/db');
 var axios = require('axios')
 //var mumaker = require('mumaker')

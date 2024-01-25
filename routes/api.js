@@ -69,11 +69,11 @@ const { xnxxsearch } = require('../lib/xnxx.js');
 const yts = require('yt-search');
 var { ytSearch } = require('../modulos/yt.js')
 //const { youtubedl } = require('./node_modules/@bochilteam/scraper-sosmed/lib/cjs/src/youtube.js');
-
+/*
 var chatGPTAPI = require('@danitech/chatgpt-api');
 var { models } = chatGPTAPI;
 var { chatGPT3, chatGPT35, chatGPT4 } = models;
-
+*/
 
 
 

@@ -5,14 +5,14 @@ var express = require('express');
 var db = require(__path + '/database/db');
 var fs = require('fs')
 var axios = require('axios')
-//var mumaker = require('mumaker')
-//var jpeg = require('jpeg-js')
-//const { GOOGLE_IMG_SCRAP , GOOGLE_QUERY } = require('google-img-scrap');
+var mumaker = require('mumaker')
+var jpeg = require('jpeg-js')
+const { GOOGLE_IMG_SCRAP , GOOGLE_QUERY } = require('google-img-scrap');
 const { search } = require('yt-search');
-//var multer = require('multer')
-//var Ddos = require('ddos')
-//var TinyUrl = require('tinyurl');
-//var BitlyClient = require('bitly').BitlyClient
+var multer = require('multer')
+var Ddos = require('ddos')
+var TinyUrl = require('tinyurl');
+var BitlyClient = require('bitly').BitlyClient
 var request = require('request');
 var cheerio = require('cheerio');
 var fetch = require('node-fetch')
@@ -69,11 +69,11 @@ const { xnxxsearch } = require('../lib/xnxx.js');
 const yts = require('yt-search');
 var { ytSearch } = require('../modulos/yt.js')
 //const { youtubedl } = require('./node_modules/@bochilteam/scraper-sosmed/lib/cjs/src/youtube.js');
-/*
+
 var chatGPTAPI = require('@danitech/chatgpt-api');
 var { models } = chatGPTAPI;
 var { chatGPT3, chatGPT35, chatGPT4 } = models;
-*/
+
 
 
 

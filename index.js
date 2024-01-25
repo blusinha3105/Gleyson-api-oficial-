@@ -11,8 +11,8 @@ var axios = require('axios')
 const { search } = require('yt-search');
 //var multer = require('multer')
 //var Ddos = require('ddos')
-var TinyUrl = require('tinyurl');
-var BitlyClient = require('bitly').BitlyClient
+//var TinyUrl = require('tinyurl');
+//var BitlyClient = require('bitly').BitlyClient
 var chatGPTAPI = require('@danitech/chatgpt-api');
 
 var { models } = chatGPTAPI;

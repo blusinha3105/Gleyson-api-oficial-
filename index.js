@@ -13,11 +13,11 @@ const { search } = require('yt-search');
 //var Ddos = require('ddos')
 //var TinyUrl = require('tinyurl');
 //var BitlyClient = require('bitly').BitlyClient
-var chatGPTAPI = require('@danitech/chatgpt-api');
+/*var chatGPTAPI = require('@danitech/chatgpt-api');
 
 var { models } = chatGPTAPI;
 
-var { chatGPT3, chatGPT35, chatGPT4 } = models;
+var { chatGPT3, chatGPT35, chatGPT4 } = models;*/
 const { wait, getExtension, generateMessageID, getMembros, getGroupAdmins, getRandom, banner, banner2, banner3, temporizador, chyt, getBuffer, fetchJson, fetchText, createExif, getBase64, convertSticker, upload, nit, getpc, supre, recognize } = require('./functions.js');
 
 

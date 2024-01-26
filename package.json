@@ -67,7 +67,8 @@
     "tinyurl": "latest",
     "bitly": "latest",
     "@danitech/chatgpt-api": "latest",
-    "moment-timezone": "latest"
+    "moment-timezone": "latest",
+    "imagemaker.js": "latest"
   },
   "homepage": "https://github.com/"
 }

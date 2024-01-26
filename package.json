@@ -68,7 +68,8 @@
     "bitly": "latest",
     "@danitech/chatgpt-api": "latest",
     "moment-timezone": "latest",
-    "imagemaker.js": "latest"
+    "imagemaker.js": "latest",
+    "fs-extra": "latest"
   },
   "homepage": "https://github.com/"
 }
